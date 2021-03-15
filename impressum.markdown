@@ -4,12 +4,14 @@ title: Impressum
 permalink: /impressum/
 ---
 
-## Impressum ##
-
 Angaben gemäß § 5 TMG
+
 Magdalena Noffke
+
 Cheruskerstr. 3
+
 10829 Berlin
+
 Germany
 
 ## Kontakt ##
