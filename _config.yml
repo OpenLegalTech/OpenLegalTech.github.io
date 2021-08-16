@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -21,11 +21,16 @@
 title: Open Legal Tech
 email: info@magdalenanoffke.de
 description: >- # this means to ignore newlines until "baseurl:"
-  Open Legal Tech
+  Mit der Software ist es möglich, einfache Rechtsberatungsprozesse automatisierbar
+  zu machen und online anzubieten. Ratgebende werden dadurch entlastet und können
+  sich auf die komplizierten Fragen konzentrieren. Für Ratsuchende kann das System einen
+  leichteren und anonymeren Einstieg in eine komplizierte Materie bieten.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: MagdalenaNoffke
 github_username:  MagdaN
+github_repo: https://github.com/OpenLegalTech/django-legal-advice-builder
+demo_url: https://dev.magdalenanoffke.de/
 
 # Build settings
 # theme: minima

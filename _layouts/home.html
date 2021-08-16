@@ -4,24 +4,28 @@ layout: default
 
 <div>
   {%- if page.title -%}
-    <h1>{{ page.title }}</h1>
+  <h1>{{ page.title }}</h1>
   {%- endif -%}
 
-  <div class="row justify-content-center my-5">
+  <div class="row justify-content-center my-3">
     <div class="col-md-6 content">
-      <div class="text-center text-highlighted lh-lg">
+      <div class="text-center text-highlighted lh-lg fw-bolder">
         {{ content }}
       </div>
+      <div class="post__spacer"></div>
+      <div class="text-center lh-lg mx-5 pt-3">
+        <p>
+          {{ site.description }}
+        </p>
+      </div>
+      <div class="post__spacer"></div>
+      <div class="d-grid gap-2 col-6 mx-auto py-3">
+        <a href="{{ site.github_repo }}" class="btn btn-outline-dark"><i class="bi bi-github"></i> mehr auf Github
+          ...</a>
+        <a href="{{ site.demo_url }}" class="btn btn-outline-dark"><i class="bi bi-link-45deg"></i> Demo</a>
+      </div>
+      <div class="post__spacer"></div>
     </div>
-  </div>
-
-
-    <div class="posts">
-      {% if site.paginate %}
-        {% assign posts = paginator.posts %}
-      {% else %}
-        {% assign posts = site.posts %}
-      {% endif %}  
   </div>
 
 </div>

@@ -10,7 +10,8 @@ footer {
 }
 
 a {
-    text-decoration: none;
+    text-decoration: underline;
+    color: $dark;
 }
 
 .content {
@@ -40,6 +41,16 @@ a {
 .posts {
     margin-top: 8*$spacer;
     margin-bottom: 8*$spacer;
+}
+
+.post__spacer {
+    width: 50%;
+    height: 4*$spacer;
+    border-right: 1px solid black;
+}
+
+.btn-sans-serif {
+    font-family: $font-family-sans-serif;
 }
 
 .nav-link--black {
