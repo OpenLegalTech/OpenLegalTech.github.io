@@ -18,6 +18,10 @@ a {
     font-family: $font-family-sans-serif;
 }
 
+.font-serif {
+    font-family: $font-family-serif;
+}
+
 .content {
     margin-top: 80px;
     font-family: $font-family-serif;
@@ -62,4 +66,11 @@ a {
         color: black !important;
         font-size: 1.25rem;
         font-family: $font-family-sans-serif;
+}
+
+.markdown-conent {
+    h5 {
+        margin-bottom: $spacer;
+        margin-top: 3*$spacer;
+    }
 }
