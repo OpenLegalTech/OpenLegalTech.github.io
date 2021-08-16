@@ -10,6 +10,6 @@ Cheruskerstr. 3
 10829 Berlin  
 Germany
 
-## Kontakt ##
+**Kontakt**  
 Email: info@magdalenanoffke.de  
 Telefon: +49 30 68008463

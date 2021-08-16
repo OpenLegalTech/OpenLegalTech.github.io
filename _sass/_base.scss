@@ -14,7 +14,12 @@ a {
     color: $dark;
 }
 
+.font-sans-serif {
+    font-family: $font-family-sans-serif;
+}
+
 .content {
+    margin-top: 80px;
     font-family: $font-family-serif;
 
     h1, h2 {
