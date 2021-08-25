@@ -68,9 +68,27 @@ a {
         font-family: $font-family-sans-serif;
 }
 
-.markdown-conent {
+.markdown-content {
     h5 {
+        font-family: $font-family-sans-serif;
         margin-bottom: $spacer;
         margin-top: 3*$spacer;
+    }
+
+    img {
+        width: 100%;
+        border: 1px solid $gray-200;
+        box-shadow: 5px 2px 2px $gray-200;
+    }
+
+    @include media-breakpoint-up(lg) {
+    .p--no-img,
+    .language-python,
+    h2,
+    h5,
+    h3 {
+        margin-left: 20%;
+        margin-right: 20%;
+      }
     }
 }

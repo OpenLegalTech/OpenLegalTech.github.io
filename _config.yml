@@ -24,7 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Mit der Software ist es möglich, einfache Rechtsberatungsprozesse automatisierbar
   zu machen und online anzubieten. Ratgebende werden dadurch entlastet und können
   sich auf die komplizierten Fragen konzentrieren. Für Ratsuchende kann das System einen
-  leichteren und anonymeren Einstieg in eine komplizierte Materie bieten.
+  leichteren und anonymeren Einstieg in eine komplizierte Materie bieten. Das Projekt wurde 
+  in der 9. Runde des Prototype Fundes gefördert.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: MagdalenaNoffke
