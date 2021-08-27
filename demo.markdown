@@ -15,21 +15,61 @@ Ziel der Software ist es, auf Basis der Eingaben von Nutzer\*innen Vorschläge z
 Im ersten Schritt muss es möglich soll, zu überprüfen, ob bestimmte Bedingungen erfüllt sind, muss es möglich sein Fragen anzulegen und je nach gegebener Antwort zu anderen Fragen springen zu können.
 {: class="p--no-img mb-3"}
 
-![screencast Fragebogen anlegen](assets/images/frageboegen_anlegen.gif "Fragebogen anlegen")
-{: class="mb-3"}
+<video width="100%" autoplay loop muted playsinline>
+  <source src="/assets/images/create_questions.mp4" type="video/mp4">
+</video>
+{: class="border"}
 
-![screencast Fragebogen preview](assets/images/fragebogen_preview.gif "Fragebogen preview")
-{: class="mb-5"}
+Fragen anlegen
+{: class="text-end mb-5 text-muted"}
+
+<video width="100%" autoplay loop muted playsinline>
+  <source src="/assets/images/create_conditions.mp4" type="video/mp4">
+</video>
+{: class="border"}
+
+Abbruchbedingungen festlegen
+{: class="text-end mb-5 text-muted"}
+
+{: class="p--no-img mb-3"}
+<video width="100%" autoplay loop muted playsinline>
+  <source src="/assets/images/preview.mp4" type="video/mp4">
+</video>
+{: class="border"}
+
+Fragebogen anschauen
+{: class="text-end mb-5 text-muted"}
 
 ##### Anlegen von Dokumenten mit Platzhaltern und Bedingungen
+
 Wenn der Fragebogen erfolgreich durchlaufen wurde und Informationen zum konkreten Fall angegeben wurden, soll es möglich sein, ein Dokument zur Verfügung zu stellen. Je nach der jeweiligen Antwort im Fragebogen zuvor sollen Textbausteine eingefügt oder nicht eingefügt werden. Im Text selber muss es möglich sein, Platzhalter einzufügen, die dann mit der jeweiligen Antwort befüllt werden.
-{: class="p--no-img"}
+{: class="p--no-img mb-3"}
 
-![screencast Dokument mit Platzhalter](assets/images/document_mit_platzhalter.gif "Dokument mit Platzhalter")
-{: class="mb-3"}
+<video width="100%" autoplay loop muted playsinline>
+  <source src="/assets/images/add_platzhalter.mp4" type="video/mp4">
+</video>
+{: class="border"}
 
-![screencast Dokument mit Bedingungen](assets/images/document_mit_bedingungen.gif "Dokument mit Bedingungen")
-{: class="mb-5"}
+Template mit Platzhaltern für die Antwort anlegen
+{: class="text-end mb-5 text-muted"}
+
+<video width="100%" autoplay loop muted playsinline>
+  <source src="/assets/images/add_text_block_conditions.mp4" type="video/mp4">
+</video>
+{: class="border"}
+
+Textblöcke nur bei bestimmten Antworten anzeigen
+{: class="text-end mb-5 text-muted"}
+
+{: class="p--no-img mb-3"}
+<video width="100%" autoplay loop muted playsinline>
+  <source src="/assets/images/preview_with_document.mp4" type="video/mp4">
+</video>
+{: class="border"}
+
+Fragebogen mit Dokument als Resultat
+{: class="text-end mb-5 text-muted"}
+
 
 ##### Software ausprobieren
 Für einen Zugang zur Demo-Plattform oder bei Fragen, einfach eine Email an info@magdalenanoffke.de senden.
